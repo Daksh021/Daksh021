@@ -22,7 +22,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/daksh-tiwary" target="_blank">
+  <a href="https://www.linkedin.com/in/daksh-tiwary-2a4511288/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daksh-tiwary" height="30" width="40" />
   </a>
 </p>
