@@ -20,7 +20,7 @@
 
 ---
 
-### 📢 Connect with Me
+### 📫 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/daksh-tiwary-2a4511288/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
@@ -50,11 +50,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Daksh021&show_icons=true&theme=react&count_private=true" alt="daksh-stats" />
-</p>
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Daksh021&theme=react" alt="streak" />
 </p>
 
 ### 💻 Most Used Languages
