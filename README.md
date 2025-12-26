@@ -21,15 +21,20 @@ Backend Development | Microservices | System Design | Data Structures & Algorith
 
 ## 💻 Projects
 
-**[BlogGuard](https://github.com/Daksh021/BlogGuard)**  
-- Built a secure blog platform using Spring Boot & MySQL  
-- Features: user authentication, CRUD operations, and REST APIs  
-
 **[Data Analysis Project and Report](https://github.com/Daksh021/Data-analysis-project-and-report)**  
-- Data analysis project with detailed reports and visualizations  
-- Explored insights, trends, and patterns using Python and visualization tools  
+This project analyzes the historical stock price data of BP (British Petroleum) to uncover trends, patterns, and insights.  
+- Data cleaning and preprocessing of BP stock prices  
+- Visualization of price trends and volume over time  
+- Calculation of key statistics like moving averages and returns  
+- Basic exploratory data analysis (EDA) to identify patterns  
+- (Optional) Simple forecasting models to predict future prices  
 
-*(Replace descriptions with more details if you want to highlight specific features)*
+**[BlogGuard](https://github.com/Daksh021/BlogGuard)**  
+This is a blog project applying Spring Boot fundamentals to build a real-life application.  
+- Implemented login, registration, and user verification  
+- Applied Spring Security for authentication and authorization  
+- Developed REST APIs and associated 2 tables using foreign keys  
+- Designed to solidify Spring Boot concepts through practical implementation  
 
 ---
 
@@ -37,4 +42,4 @@ Backend Development | Microservices | System Design | Data Structures & Algorith
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daksh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daksh-tiwary-2a4511288/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Daksh-black?style=for-the-badge&logo=github)](https://github.com/Daksh021)  
-[![Email](https://img.shields.io/badge/Email-Daksh-red?style=for-the-badge&logo=gmail)](mailto:<your-email>)
+[![Email](https://img.shields.io/badge/Email-Daksh-red?style=for-the-badge&logo=gmail)](mailto:tiwarydaksh21@gmail.com)
