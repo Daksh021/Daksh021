@@ -1,4 +1,4 @@
-# Hi, I'm Daksh Tiwary 👋
+# Hi, I'm Daksh Tiwary 
 
 Backend Developer | Java | Spring Boot | DSA Enthusiast  
 
@@ -6,20 +6,20 @@ I'm a 3rd year Computer Science student passionate about building scalable backe
 
 ---
 
-## 🚀 Skills
+##  Skills
 
 **Languages & Frameworks:**  
-Java | Spring Boot | SQL | Node.js (basics) | HTML, CSS, JS  
+Java | Spring Boot | SQL | Python | Data Analysis 
 
 **Tools & Technologies:**  
 Git | GitHub | REST APIs | Postman | Maven | Docker (learning)  
 
 **Areas of Interest:**  
-Backend Development | Microservices | System Design | Data Structures & Algorithms  
+Backend Development | Data Analysis | Data Structures & Algorithms  
 
 ---
 
-## 💻 Projects
+## Projects
 
 **[Data Analysis Project and Report](https://github.com/Daksh021/Data-analysis-project-and-report)**  
 This project analyzes the historical stock price data of BP (British Petroleum) to uncover trends, patterns, and insights.  
